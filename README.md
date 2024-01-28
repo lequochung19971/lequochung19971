@@ -14,6 +14,7 @@
 <h3 align="left">Highlight projects</h3>
 <ul>
   <li><a href="https://github.com/lequochung19971/micro-fe-react">Micro Frontnend with React and Webpack Module Federation</a></li>
+  <li><a href="https://github.com/lequochung19971/nano-event-bus-ts">An Event Bus libary to support for Micro Frontend project</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
